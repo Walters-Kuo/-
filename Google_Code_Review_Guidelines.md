@@ -7,8 +7,8 @@ Google積累了很多最佳實踐，涉及不同的開發語言、專案，這�
 Google目前公開的最佳實踐相關文件，目前包括：
 
     Google’s Code Review Guidelines，Google程式碼review指引，包含以下兩個系列的內容：
-        The Code Reviewer’s Guide
-        The Change Author’s Guide
+        [The Code Reviewer’s Guide] (https://google.github.io/eng-practices/review/reviewer/)
+        [The Change Author’s Guide] (https://google.github.io/eng-practices/review/developer/)
 
 這了涉及到Google內部使用的一些術語，先提下：
 
